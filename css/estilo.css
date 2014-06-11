@@ -1,0 +1,135 @@
+@charset "utf-8";
+/* CSS Document */
+
+#page
+{width:95%;
+	height:auto;
+	border:groove 10px #6699FF;
+	/*-webkit-border-radius: 10px;*/}
+
+#imagenprin
+{text-align:center;}
+
+#imagen1
+{text-align:center; }
+
+#tex 
+{width:300px; 
+float:left; 
+border-bottom-left-radius:50px; 
+height:100px; 
+background-color:#F90; 
+text-align:right;}
+
+#tex1 
+{width:600px; background-position:center;
+height:140px; 
+background-color:#F90; 
+text-align:center; 
+font-size:16px;}
+
+
+#tex2 
+{width:440px; 
+float:left; 
+height:130px; 
+background-color:#F90; 
+text-align:center; 
+font-size:16px;}
+
+#texto1 {background-color:#FFF; color:#009; text-align:center;}
+#texto2 {background-color:#FFF; color:#009; text-align:center; font-size:16px}
+#texto3 {background-color:#FFF; color:#009; text-align:center; font-size:16px}
+#texto4 {background-color:#FFF; color:#009; text-align:center; font-size:16px}
+
+
+#content
+{width:91.7%;
+	height:600px;
+	font-size:10px;
+	border-style:ridge;
+	border-width:thick;
+	border-color:#C99; background-color:#0CF;}
+#content1
+{width:91.7%;
+	height:600px;
+	font-size:10px;
+	border-style:ridge;
+	border-width:thick;
+	border-color:#C99; background-color:#0CF; }
+
+#content2
+{width:91.7%;
+	height:600px;
+	font-size:10px;
+	border-style:ridge;
+	border-width:thick;
+	border-color:#C99; background-color:#0CF; }
+	
+#content3
+{width:91.7%;
+	height:600px;
+	font-size:10px;
+	border-style:ridge;
+	border-width:thick;
+	border-color:#C99; background-color:#0CF; }
+	
+#content4
+{width:91.7%;
+	height:600px;
+	font-size:10px;
+	border-style:ridge;
+	border-width:thick;
+	border-color:#F60; background-color:#3F0; }
+	
+	
+#content5
+{width:91.7%;
+	height:600px;
+	font-size:10px;
+	border-style:ridge;
+	border-width:thick;
+	border-color:#F60; background-color:#3F0; }
+	
+	#content6
+{width:91.7%;
+	height:600px;
+	font-size:10px;
+	border-style:ridge;
+	border-width:thick;
+	border-color:#F60; background-color:#3F0; }
+	
+	
+	
+	
+	
+a{text-align:center;}
+
+#lalista
+{width:80%;
+	height:200px;
+	text-align:justify;
+	color:#000;
+	font-size:15px;
+	text-height:font-size;
+	font-family:Tahoma, Geneva, sans-serif;
+	margin-left:10%;}
+
+
+#header
+{width:auto;
+	height:auto;
+	font-size:15px;
+	text-height:font-size;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-align:center;
+	border-style:ridge;
+	border-width:thick;
+	border-color:#fff;
+	/*background:#D400FF;*/
+	background-color: rgba(0, 66, 255, 0.6);
+background: rgba(0, 66, 255, 0.6);
+color: rgba(0, 66, 255, 0.6);
+		color:#6F9;
+		margin-top:10px;}
+
